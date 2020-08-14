@@ -5,6 +5,7 @@ An Inventory Management System using Angular JS,Spring Framework and MySQL.
 ## To add Bootstrap,Jquery,popper.js
 
 Enter the following commands in CLI
+
 Bootstrap:
 npm install ngx-bootstrap bootstrap@3
 
