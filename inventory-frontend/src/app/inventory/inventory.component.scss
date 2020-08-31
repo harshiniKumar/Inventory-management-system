@@ -1,0 +1,38 @@
+.example-container .mat-form-field + .mat-form-field {
+    margin-left: 8px;
+    .example-full-width
+    {
+        max-width: 200px;
+    }
+  }
+  
+  .example-right-align {
+    text-align: right;
+  }
+
+  input.example-right-align::-webkit-outer-spin-button,
+  input.example-right-align::-webkit-inner-spin-button {
+    display: none;
+  }
+  
+  input.example-right-align {
+    -moz-appearance: textfield;
+  }
+  .mat-radio-button ~ .mat-radio-button {
+    margin-left: 16px;
+    font-style: normal;
+  }
+  table {
+    width: 100%;
+    margin-right:16px;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 75%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+  
