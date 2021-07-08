@@ -32,19 +32,28 @@ npm install popper.js --save
         "./node_modules/bootstrap/dist/js/bootstrap.min.js"  
 ]   
 
-#Snapshots
+# Snapshots
+
+### Add Item Page
 ![Add Item Page](https://github.com/harshiniKumar/Inventory-management-system/blob/master/Snapshots/Angular/add_item.png)
 
+### Add Purchases Page
 ![Add Purchases Page](https://github.com/harshiniKumar/Inventory-management-system/blob/master/Snapshots/Angular/add_purchases.png)
 
+### Add Supplier Page
 ![Add Supplier Page](https://github.com/harshiniKumar/Inventory-management-system/blob/master/Snapshots/Angular/add_supplier.png)
 
+### Barcode Page
 ![Barcode page](https://github.com/harshiniKumar/Inventory-management-system/blob/master/Snapshots/Angular/barcode.png)
 
+### Dashboard
 ![Dashboard](https://github.com/harshiniKumar/Inventory-management-system/blob/master/Snapshots/Angular/dashboard.png)
 
+### Invoice Preview
 ![Invoice Preview](https://github.com/harshiniKumar/Inventory-management-system/blob/master/Snapshots/Angular/invoice_preview.png)
 
+### Item List
 ![Item List](https://github.com/harshiniKumar/Inventory-management-system/blob/master/Snapshots/Angular/item_list.png)
 
+### Purchase List
 ![Purchase List](https://github.com/harshiniKumar/Inventory-management-system/blob/master/Snapshots/Angular/purchase_list.png)
