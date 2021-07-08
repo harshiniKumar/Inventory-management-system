@@ -33,7 +33,7 @@ npm install popper.js --save
 ]   
 
 # Snapshots
-     (The Snapshots are taken during initial stages of development)
+     (The Snapshots were taken during initial stages of development)
 ### Add Item Page
 ![Add Item Page](https://github.com/harshiniKumar/Inventory-management-system/blob/master/Snapshots/Angular/add_item.png)
 
